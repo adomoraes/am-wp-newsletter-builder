@@ -1,5 +1,5 @@
 # am-wp-newsletter-builder
 Plugin Wordpress para gerar templates para newsletter.
 
-# finalidade
-Programar newsletter selecionando o conteúdo do site.
+# objetivo
+Disponibilizar a criação de newsletter para o usuário.
